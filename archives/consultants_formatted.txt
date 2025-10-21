@@ -1,0 +1,72 @@
+{
+    name: 'Michele De Bellis',
+    role: 'Consultant',
+    bio: 'Michele's K-16 experience as special education teacher, special programs administrator and region-wide literacy director has influenced her passion for coaching to support continuous growth and that passion continues in her consulting over the last 20 years. Michele is an advocate and teacher of ...',
+    img: '/images/team/michele-de-bellis.jpg'
+},
+{
+    name: 'Karen-Tui Boyes',
+    role: 'Expert Practitioner',
+    bio: 'Karen-Tui Boyes is a champion for LifeLong Learning, a multi-award winning speaker and educator and the author of 10 books. Founder, head facilitator and CEO of Spectrum Education Limited, Sha has been leading a small (and dynamic!) team for the past 27 years, which is determined to unleash every...',
+    img: '/images/team/karen-tui-boyes.jpg'
+},
+{
+    name: 'Catherine Caine',
+    role: 'Educator',
+    bio: 'Catherine has been a Habit of Mind practitioner at Waikiki School since 1991. Over the years, as a classroom teacher and educator, she has been dedicated to sharing her passion for what HOM brings to both her students and community.',
+    img: '/images/team/catherine-caine.jpg'
+},
+{
+    name: 'Carol Hill, EdD',
+    role: 'Educational Director',
+    bio: 'A former high school teacher, coach, and principal, Carol Hill is currently Director of Florence County Adult Education and a professional development trainer for 16 Habits of Mind, Cognitive Coaching, and Adaptive Schools. She trusts the process of building community in order to support student ...',
+    img: '/images/team/carol-hill-edd.jpg'
+},
+{
+    name: 'Craig Gastauer',
+    role: 'Expert Practitioner',
+    bio: 'A high school instructional leader and a passionate student advocate, Craig loves to collaborate with curious educators to develop co-created experiences with students in which students grow the skills and dispositions to be more thoughtful in their learning process. Craig is a regular blogger fo...',
+    img: '/images/team/craig-gastauer.jpg'
+},
+{
+    name: 'Juanita Henry',
+    role: 'Consultant',
+    bio: 'Juanita is a retired Middle School science teacher and department chairperson who integrated Habits of Mind into her classroom and professional learning presentations. She is a consultant who offers many professional learning workshops including Habits of Mind and is a Training Associate for Thin...',
+    img: '/images/team/juanita-henry.jpg'
+},
+{
+    name: 'Dana Lesperance',
+    role: 'Expert Practitioner',
+    bio: 'Dana is the Head of School at Community High School of Vermont, a NEASC accredited school that operates within Vermont’s correctional system. He has been integrating the Habits into the work and curriculum of Community High School and correctional Risk Intervention Services since 2004.',
+    img: '/images/team/dana-lesperance.jpg'
+},
+{
+    name: 'Liz Locatelli',
+    role: 'Educator',
+    bio: '\nAs a former ELA teacher, founder of an alternative program, and adjunct professor in teacher ed programs, Liz sought ways to empower learners at all levels to believe in their ability to succeed. Over the last 12 years, she has worked in many districts throughout the state and in the DOE, helpi...',
+    img: '/images/team/liz-locatelli-ed-d.jpg'
+},
+{
+    name: 'Pat Mullikin',
+    role: 'Consultant',
+    bio: 'Pat is a former early childhood & elementary school teacher and administrator who implemented HOM in her classroom. Currently she is an Educational Consultant, Adaptive Schools Training Associate, Cognitive Coaching Training Associate, and Teacher Center Director committed to providing quality pr...',
+    img: '/images/team/pat-mullikin.jpg'
+},
+{
+    name: 'Henry Toi',
+    role: 'Educational Director',
+    bio: '\nDr. Henry Toi is the founder and Managing Director of Nurture Craft, a group of companies specialising in developing educational content in the form of curriculum and published materials. Among the books and educational materials he developed were an award winning “Phonics Zoo”, a parenting boo...',
+    img: '/images/team/henry-toi.jpg'
+},
+{
+    name: 'Daniel Vollrath',
+    role: 'Educator',
+    bio: 'A special education high school teacher, Daniel incorporates the Habits of Mind into his instructional practice, classroom culture, student-centered goals, and strategies for increasing productivity. Daniel is a regular blogger on the Institute, Edutopia, and currently working on a book with Solu...',
+    img: '/images/team/daniel-vollrath.jpg'
+},
+{
+    name: 'Denise Washington',
+    role: 'Consultant',
+    bio: 'Denise Washington is a Career and College Preparation Consultant, who holds a Masters in CTE Training and Development. Her focus and passion is to assist students and educators in acquiring knowledge, tools, and skills that facilitate the use of cross-cultural competencies, in hopes of impacting/...',
+    img: '/images/team/denise-washington.jpg'
+},

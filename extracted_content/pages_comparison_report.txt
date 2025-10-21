@@ -1,0 +1,231 @@
+================================================================================
+OLD SITE vs NEW SITE - PAGE COMPARISON REPORT
+================================================================================
+
+Total Old Pages: 303
+Pages that exist in new site: 39
+Potentially missing (CRITICAL): 33
+Potentially missing (MINOR): 18
+
+================================================================================
+CRITICAL MISSING PAGES
+================================================================================
+These pages should be reviewed for integration:
+
+  ❌ Professional Learning
+      Old URL: /online-learning
+      Date: 2014-04-21 00:08:00
+
+  ❌ HOM Certified Schools
+      Old URL: /hom-certified-schools
+      Date: 2014-04-28 02:33:26
+
+  ❌ Professional Development Trainers
+      Old URL: /professional-development-trainers
+      Date: 2014-04-28 02:38:28
+
+  ❌ 2014 ASCD Conference on Education Leadership, October 31- November 2, 2014
+      Old URL: /2014-ascd-conference-education-leadership-october-31-november-2-2014
+      Date: 2014-04-28 15:04:16
+
+  ❌ 2014 ASCD Conference on Teaching Excellence, June 27-29, 2014
+      Old URL: /2014-ascd-conference-teaching-excellence-june-27-29-2014
+      Date: 2014-04-28 15:16:54
+
+  ❌ Professional Development Trainers
+      Old URL: /professional-development-trainers
+      Date: 2014-05-21 11:50:58
+
+  ❌ Professional Learning Options
+      Old URL: /professional-learning-options
+      Date: 2014-06-02 00:15:17
+
+  ❌ Teachers Matter Conference 2015 - Simply the Best
+      Old URL: /teachers-matter-conference-2015-simply-best
+      Date: 2014-08-25 23:10:43
+
+  ❌ International Visible Thinking Conference,  March 12 - 14, 2015
+      Old URL: /international-visible-thinking-conference-march-12-14-2015
+      Date: 2014-09-23 11:02:07
+
+  ❌ Gifted Education Conference, October 11, 2014 – Keynote Speaker, Art Costa
+      Old URL: /gifted-education-conference-october-11-2014-keynote-speaker-art-costa
+      Date: 2014-09-30 13:01:08
+
+  ❌ Event Registration
+      Old URL: /eventreg
+      Date: 2015-02-13 18:41:28
+
+  ❌ Australia - Certified Schools
+      Old URL: /australia-certified-schools
+      Date: 2016-11-23 21:03:49
+
+  ❌ United States - Certified Schools
+      Old URL: /united-states-certified-schools
+      Date: 2016-11-25 13:33:22
+
+  ❌ New Zealand - Certified Schools
+      Old URL: /new-zealand-certified-schools
+      Date: 2016-11-25 12:28:06
+
+  ❌ Singapore - Certified Schools
+      Old URL: /singapore-certified-schools
+      Date: 2016-11-25 12:36:55
+
+  ❌ United Kingdom - Certified Schools
+      Old URL: /united-kingdom-certified-schools
+      Date: 2016-11-25 12:50:21
+
+  ❌ International Professional Development Trainers
+      Old URL: /pd-international
+      Date: 2016-12-14 01:03:04
+
+  ❌ United States Professional Development Trainers
+      Old URL: /pd-united-states
+      Date: 2016-12-14 01:04:50
+
+  ❌ International Self-Directed Learning Conference
+      Old URL: /self-directed
+      Date: 2017-01-29 00:07:01
+
+  ❌ Collaborate South Florida Conference
+      Old URL: /collab
+      Date: 2017-02-06 15:25:25
+
+  ❌ Cambodia Certified Schools
+      Old URL: /cambodia-certified-schools
+      Date: 2020-07-30 22:43:21
+
+  ❌ Brazil – Certified Schools
+      Old URL: /brazil-certified-schools
+      Date: 2021-03-19 23:05:54
+
+  ❌ Individual Practitioner Certification
+      Old URL: /individual-practitioner-certification
+      Date: 2022-10-02 23:32:27
+
+  ❌ FAQ - Individual Practitioner Certification
+      Old URL: /faq-individual-practitioner-certification
+      Date: 2022-12-12 16:47:09
+
+  ❌ Individual Practitioner Certification Program Enrollment Form
+      Old URL: /individual-practitioner-certification-program-enrollment-form
+      Date: 2022-12-12 18:50:08
+
+  ❌ 2025 Habits of Mind Conference
+      Old URL: /habits-of-mind-conference
+      Date: 2023-12-04 16:08:20
+
+  ❌ 2025 Conference Registration Policy
+      Old URL: /conference-registration-policy
+      Date: 2024-02-23 14:37:54
+
+  ❌ Habits of Mind Conference Breakout Sessions
+      Old URL: /conference-breakout-sessions
+      Date: 2024-03-08 20:49:33
+
+  ❌ Habits of Mind Conference Form
+      Old URL: /conference-exit-form
+      Date: 2024-04-17 14:48:09
+
+  ❌ Habits of Mind Consultants
+      Old URL: /habits-of-mind-consultants
+      Date: 2024-05-29 10:46:59
+
+  ❌ Habits of Mind Playbook Professional Development Package
+      Old URL: /habits-of-mind-playbook
+      Date: 2024-06-11 14:26:23
+
+  ❌ How to Become a Habits of Mind Certified School
+      Old URL: /how-to-become-a-habits-of-mind-certified-school
+      Date: 2024-11-05 14:42:20
+
+  ❌ Planning Your Trip to the IHOM Conference!
+      Old URL: /planning-your-trip-to-the-ihom-conference
+      Date: 2025-01-22 16:49:06
+
+
+================================================================================
+POTENTIALLY IMPORTANT MISSING PAGES
+================================================================================
+Review these to see if content should be migrated:
+
+  ⚠️  Articles, Research & Blogs
+      Old URL: /articles-research
+
+  ⚠️  Assessments
+      Old URL: /assessments
+
+  ⚠️  Bibliography of Student Books
+      Old URL: /bibliography-student-books
+
+  ⚠️  Multimedia Examples
+      Old URL: /multimedia-examples
+
+  ⚠️  Quotes
+      Old URL: /quotes
+
+  ⚠️  Habits of Mind Boot Camp & Leadership Challenge July 2014
+      Old URL: /habits-mind-boot-camp-leadership-challenge-july-2014
+
+  ⚠️  Parents
+      Old URL: /parents
+
+  ⚠️  HOM Quotes
+      Old URL: /hom-quotes
+
+  ⚠️  Quotes About Habits
+      Old URL: /quotes-habits
+
+  ⚠️  Articles, Research and Blogs
+      Old URL: /articles-research-blogs
+
+  ⚠️  Free Resources
+      Old URL: /free-resources
+
+  ⚠️  Students at the Center: Discovering Who They Are by Learning the Habits of Mind
+      Old URL: /empower18precon
+
+  ⚠️  Personalized Learning Leadership - Moving from Theory to Action
+      Old URL: /plpgh
+
+  ⚠️  Habits of Mind Quotes
+      Old URL: /hom-quotes
+
+  ⚠️  Quotes About Habits in General
+      Old URL: /quotes-habits
+
+  ⚠️  Articles and Blogs
+      Old URL: /articles-research-blogs
+
+  ⚠️  Research
+      Old URL: /research
+
+  ⚠️  Action Research in Mathematics: Providing Metacognitive Support (as a Heutagogical Technique) to Grade 3 Students
+      Old URL: /action-research-in-mathematics-providing-metacognitive-support-as-a-heutagogical-technique-to-grade-3-students
+
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. CERTIFICATION PAGES
+   Review: Certified Schools by region, Individual Practitioner Certification
+   Action: Ensure all certification info is in /certification
+
+2. PROFESSIONAL LEARNING
+   Review: Professional Learning Options, Training programs
+   Action: Add or link from /consulting or create /professional-development
+
+3. EVENT REGISTRATION
+   Review: Conference registration, event forms
+   Action: Ensure /events has current event registration info
+
+4. RESOURCES
+   Review: Assessments, Multimedia Examples, Bibliography
+   Action: Verify all exist in /resources or add missing ones
+
+5. CONSULTANT PROFILES
+   Review: Individual consultant pages
+   Action: Already have in /about - verify completeness
+
