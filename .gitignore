@@ -68,4 +68,9 @@ temp/
 # Screenshots (if regenerated)
 screenshots/
 
+# Private/archived content (not for public repository)
+archives/
+extracted_content/
+scripts/
+
 habitsofmind-3a032-firebase-adminsdk-fbsvc-1665db8831.json
